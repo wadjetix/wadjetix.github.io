@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wadjetix.github.io/sitemap.xml
